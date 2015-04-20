@@ -1,6 +1,6 @@
 {
   "name": "nibbler-debian-iojs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Install io.js on Debian with nibbler",
   "main": "index.js",
   "scripts": {
