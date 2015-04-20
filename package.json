@@ -1,0 +1,26 @@
+{
+  "name": "nibbler-debian-iojs",
+  "version": "0.0.0",
+  "description": "Install io.js on Debian with nibbler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmalecki/nibbler-debian-iojs"
+  },
+  "keywords": [
+    "nibbler"
+  ],
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmalecki/nibbler-debian-iojs/issues"
+  },
+  "homepage": "https://github.com/mmalecki/nibbler-debian-iojs",
+  "dependencies": {
+    "nibbler-apt": "~0.1.0",
+    "nibbler-exec": "~0.1.0"
+  }
+}
